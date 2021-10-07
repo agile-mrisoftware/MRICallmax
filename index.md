@@ -1,3 +1,3 @@
 ## Callmax iOS application
  
-[Callmax iOS app - 3.3.0 - 13](itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/lvnmr6p0g3u82fe/Callmax-3.3.0-13.plist)
+[Callmax iOS app - 3.1.2 - 1](itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/qk7gvlbjav2hb1g/callmax-3.1.2-1.plist)  
